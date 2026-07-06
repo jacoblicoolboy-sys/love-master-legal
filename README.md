@@ -1,2 +1,8 @@
-# love-master-legal
-恋爱高手用户协议和隐私政策静态页面
+# 恋爱高手协议中心
+
+用于 GitHub Pages 部署的静态页面：
+
+- `privacy.html`：隐私政策
+- `terms.html`：用户协议
+
+建议仓库名：`love-master-legal`
